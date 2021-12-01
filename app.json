@@ -1,0 +1,143 @@
+{
+    "name": "Spam Bot",
+    "description": "Best Spamming Bots",
+    "logo": "https://te.legra.ph/file/7dcf2d9f705f95a5a521f.jpg",
+    "keywords": [
+        "telegram",
+        "telethon",
+        "telegram-bot",
+        "Ustad-op",
+        "SpamBots"
+    ],
+    "repository": "https://t.me/attitude_galaxy",
+    "website": "https://t.me/attitude_galaxy",
+    "success_url": "https://t.me/attitude_galaxy",
+    "env": {
+        "API_HASH": {
+            "description": "You API HASH from my.telegram.org",
+            "value": ""
+        },
+        "APP_ID": {
+            "description": "You API ID from my.telegram.org",
+            "value": ""
+        },
+        "BOT_TOKEN": {
+            "description": "Bot token, get it from @BotFather.",
+            "value": ""
+        },
+        "BOT_TOKEN2": {
+            "description": "Bot token, get it from @BotFather.",
+            "value": ""
+
+        },
+        "BOT_TOKEN3": {
+            "description": "Bot token, get it from @BotFather.",
+            "value": ""
+           
+        },
+        "BOT_TOKEN4": {
+            "description": "Bot token, get it from @BotFather.",
+            "value": ""
+            
+        },
+        "BOT_TOKEN5": {
+            "description": "Bot token, get it from @BotFather.",
+            "value": ""
+           
+        },
+        "BOT_TOKEN6": {
+            "description": "Bot token, get it from @BotFather.",
+            "value": ""
+            
+        },
+        "BOT_TOKEN7": {
+            "description": "Bot token, get it from @BotFather.",
+            "value": ""
+            
+        },
+        "BOT_TOKEN8": {
+            "description": "Bot token, get it from @BotFather.",
+            "value": ""
+            
+        },
+        "BOT_TOKEN9": {
+            "description": "Bot token, get it from @BotFather.",
+            "value": ""
+            
+        },
+        "BOT_TOKEN10": {
+            "description": "Bot token, get it from @BotFather.",
+            "value": ""
+            
+        },
+        "BOT_TOKEN11": {
+            "description": "Bot token, get it from @BotFather.",
+            "value": ""
+        },
+        "BOT_TOKEN12": {
+            "description": "Bot token, get it from @BotFather.",
+            "value": ""
+
+        },
+        "BOT_TOKEN13": {
+            "description": "Bot token, get it from @BotFather.",
+            "value": ""
+           
+        },
+        "BOT_TOKEN14": {
+            "description": "Bot token, get it from @BotFather.",
+            "value": ""
+            
+        },
+        "BOT_TOKEN15": {
+            "description": "Bot token, get it from @BotFather.",
+            "value": ""
+           
+        },
+        "BOT_TOKEN16": {
+            "description": "Bot token, get it from @BotFather.",
+            "value": ""
+            
+        },
+        "BOT_TOKEN17": {
+            "description": "Bot token, get it from @BotFather.",
+            "value": ""
+            
+        },
+        "BOT_TOKEN18": {
+            "description": "Bot token, get it from @BotFather.",
+            "value": ""
+            
+        },
+        "BOT_TOKEN19": {
+            "description": "Bot token, get it from @BotFather.",
+            "value": ""
+            
+        },
+        "BOT_TOKEN20": {
+            "description": "Bot token, get it from @BotFather.",
+            "value": ""
+            
+        },
+        "SUDO_USERS": {
+            "description": "Owner Id",
+            "value": ""
+            
+        },
+        "HEROKU_API_KEY": {
+            "description": "Your Heroku api key to update your bot",
+            "value": ""
+            
+        },
+        "HEROKU_APP_NAME": {
+            "description": "Your app name to Update your bot",
+            "value": ""
+            
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
