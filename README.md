@@ -2,6 +2,10 @@
 Highly advanced spam bot. Make your bot  pro sapm😎. Powered by Https://t.me/attitude_Network
 </p>
 
+### Click on picture🔰 <p align="center"><a href="Https://t.me/Attitude_Network"><img src="https://telegra.ph/file/4c1504bdd469996619709.jpg" width="300"></a></p>
+
+</p>
+
 ## .🅡🅔🅟🅞 🅢🅣🅐🅣🅢.
 
 </p>
@@ -12,13 +16,13 @@ Highly advanced spam bot. Make your bot  pro sapm😎. Powered by Https://t.me/a
 
 ## .ᴜᴩᴅᴀᴛᴇꜱ🔊
 
-[![ᴜᴩᴅᴀᴛᴇꜱ](https://img.shields.io/badge/ᴜᴩᴅᴀᴛᴇꜱ-attitude_galaxy-red?style=for-the-badge&logo=telegram)](https://t.me/attitude_galaxy)</br></br>
+[![ᴜᴩᴅᴀᴛᴇꜱ](https://img.shields.io/badge/ᴜᴩᴅᴀᴛᴇꜱ-attitude_galaxy-red?style=for-the-badge&logo=telegram)](https://t.me/Attitude_Network)</br></br>
 
 </p>
 
 ## .ꜱᴜᴩᴩᴏʀᴛ🔧
 
-[![ꜱᴜᴩᴩᴏʀᴛ](https://img.shields.io/badge/ꜱᴜᴩᴩᴏʀᴛ-sweet_Kingdom-red?style=for-the-badge&logo=telegram)](https://t.me/sweetkingdom1)</br></br>
+[![ꜱᴜᴩᴩᴏʀᴛ](https://img.shields.io/badge/ꜱᴜᴩᴩᴏʀᴛ-sweet_Kingdom-red?style=for-the-badge&logo=telegram)](https://t.me/OAN_Support)</br></br>
 
 </p>
 
