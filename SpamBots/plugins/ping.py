@@ -98,8 +98,8 @@ def get_readable_time(seconds: int) -> str:
 )
 async def ping(e):
         start = datetime.now()
-        text = "⚡"
+        text = "😈"
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"🤖PONG\n\n⚡ᴀᴛᴛɪᴛᴜᴅᴇ🔥ᴋɪɴɢ⚡\n⚡ꜱᴩᴀᴍ🌀ʙᴏᴛ ɪꜱ ᴏɴ ꜰɪʀᴇ🔥🥂!\n\n`{ms}` ʀᴇᴀᴅy ꜰᴏʀ ꜱᴩᴀᴍ😏🔥🌀🥂⚡")        
+        await event.edit(f"[🤖](https://telegra.ph/file/71e57092243ea6b4279ce.jpg)𝐏𝐎𝐍𝐆.......\𝐧\𝐧\𝐧𝄥𝄞─────────────\𝐧\𝐧⚡𝐀𝐓𝐓𝐈𝐓𝐔𝐃𝐄 𝐍𝐄𝐓𝐖𝐎𝐑𝐊⚡\𝐧⚡𝐒𝐩𝐚𝐦𝐦𝐞𝐫 𝐢𝐬 𝐨𝐧 𝐟𝐢𝐫𝐞🔥🥂!\𝐧\𝐧`{𝐦𝐬}` 𝐑𝐞𝐚𝐝𝐲 𝐭𝐨 𝐬𝐩𝐚𝐦😏🔥🥂⚡\𝐧\𝐧────────────── 𝄇")        
